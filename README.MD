@@ -43,8 +43,11 @@ ChatGPT：
 |  Enredo  | Gostaria de um resumo detalhado sobre os seguintes livros: |
 |  título  | Com base nesses 7 livros quero escrever meu ebook, voltado para o nicho de vendas, e com subnicho a formação de excelentes vendedores. Quero um título impactante utilizando das técnicas fornecidas pelos livros e curto.  |  
 | conteúdo | Se aprofunde mais nos temas, crie um subtítulo que seja uma citação breve do livro, traga exemplos reais do cotidiano da área de vendas. Inclua também as seguintes regras: |
+| conclusão | 
+Traga uma conclusão sobre todo o conteúdo abordado e sobre o conteúdo dos livros estudados, diga que agora o vendedor subiu de nível e que indicamos os livros. Inclua também as regras mencionadas anteriormente: |
 
-\{REGRAS\} 
+
+\{REGRAS GERAIS\} 
 \> Cada tópico deve possuir no mínimo 800 caracteres, incluindo espaços
 \> O Autor é CEO de uma distribuidora de cigarros aplicando sua experiência nesse ebook 
 \> Não utilize sempre o termo "Como CEO de uma distribuidora de cigarros" 
@@ -55,19 +58,6 @@ ChatGPT：
 \> Traga vivência para a área de vendas do comércio geral
 \> De exemplos para o vendedor externo de cigarros  
 
-| conclusão | 
-Traga uma conclusão sobre todo o conteúdo abordado e sobre o conteúdo dos livros estudados, diga que agora o vendedor subiu de nível e que indicamos os livros. Inclua também as regras mencionadas anteriormente: |
-
-\{REGRAS\} 
-\> Cada tópico deve possuir no mínimo 800 caracteres, incluindo espaços 
-\> O Autor é CEO de uma distribuidora de cigarros aplicando sua experiência nesse ebook 
-\> Não utilize sempre o termo "Como CEO de uma distribuidora de cigarros" 
-\> O público-alvo são vendedores externos 
-\> Extraia de maneira minuciosa 
-\> Faça uma análise em cada livro 
-\> Utilize somente as ideias dos livros
-\> Traga vivência para a área de vendas do comércio geral
-\> De exemplos para o vendedor externo de cigarros  
 
 
 Midjourney：
