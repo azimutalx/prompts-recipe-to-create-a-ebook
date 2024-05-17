@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/azimutalx/prompts-recipe-to-create-a-ebook/blob/main/output/A_Arte_da_Persuasao_em_Vendas.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -40,15 +40,16 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Enredo  | 1- Armas da persuasão - como influenciar e não se deixar influenciar
-2 - Comunicação não-violenta - Tecnicas para aprimorar relacionamentos pessoais e profissionais
-3 - Como falar em publico e encantar pessoas
-4 - Inteligencia do carisma - Aprenda a ciencia de conquistar e influenciar pessoas
-5 - Comunicação Assertiva - O que voce preciisa saber para melhorar suas relaçoes pessoais e profissionais
-6 - Como convencer alguem em 90 segundos - Crie uma primeira impressão vendedora
-7 - TED falar, convencer, emocionar - como se apresentar em grandes plateias
+|  Enredo  | "Gostaria de um resumo detalhado sobre os seguintes livros:
 
-quero que traga um resumo com as partes e lições aprendidas de cada um desses livros  |
+'Armas da persuasão - como influenciar e não se deixar influenciar'
+'Comunicação não-violenta - Técnicas para aprimorar relacionamentos pessoais e profissionais'
+'Como falar em público e encantar pessoas'
+'Inteligência do carisma - Aprenda a ciência de conquistar e influenciar pessoas'
+'Comunicação Assertiva - O que você precisa saber para melhorar suas relações pessoais e profissionais'
+'Como convencer alguém em 90 segundos - Crie uma primeira impressão vendedora'
+'TED falar, convencer, emocionar - como se apresentar em grandes plateias'
+Por favor, inclua as partes essenciais e as principais lições aprendidas de cada livro." |
 |  título  | Com base nesses 7 livros quero escrever meu ebook, voltado para o nicho de vendas, e com subnicho a formação de excelentes vendedores, quero um titulo impactante utilizando das tecnicas fornecidas pelos livros e curto.     |                                                  |
 | conteúdo | Se aprofunde mais nos temas, crie um subtítulo que seja uma citação breve do livro, traga exemplos reais do cotidiano da área de vendas
 
