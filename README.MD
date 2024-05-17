@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://web.dio.me/users/hemersonfire?tab=achievements)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -31,7 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
 
@@ -40,15 +40,57 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  Enredo  | 1- Armas da persuasão - como influenciar e não se deixar influenciar
+2 - Comunicação não-violenta - Tecnicas para aprimorar relacionamentos pessoais e profissionais
+3 - Como falar em publico e encantar pessoas
+4 - Inteligencia do carisma - Aprenda a ciencia de conquistar e influenciar pessoas
+5 - Comunicação Assertiva - O que voce preciisa saber para melhorar suas relaçoes pessoais e profissionais
+6 - Como convencer alguem em 90 segundos - Crie uma primeira impressão vendedora
+7 - TED falar, convencer, emocionar - como se apresentar em grandes plateias
+
+quero que traga um resumo com as partes e lições aprendidas de cada um desses livros  |
+|  título  | Com base nesses 7 livros quero escrever meu ebook, voltado para o nicho de vendas, e com subnicho a formação de excelentes vendedores, quero um titulo impactante utilizando das tecnicas fornecidas pelos livros e curto.     |                                                  |
+| conteúdo | Se aprofunde mais nos temas, crie um subtítulo que seja uma citação breve do livro, traga exemplos reais do cotidiano da área de vendas
+
+{REGRAS}
+> Cada tópico deve possui no mínimo 800 caracteres, incluindo espaços
+> O Autor é CEO de uma distribuidora de cigarros aplicando sua experiencia nesse ebook
+> Não utilize sempre o termo "Como CEO de uma distribuidora de cigarros"
+> O publico alvo são vendedores externos
+> extraia de maneira minuciosa
+> Faça uma analise em cada livro
+> Utilize somente as ideias dos livros 
+> traga vivencia para a área de vendas do comercio geral
+> De exemplos para o vendedor externo de cigarros |
+| conclusão | Traga uma conclusão sobre todo o conteudo abordado e sobre o conteudo dos livros estudados, diga que agora o vendedor subiu de level e que indicamos os livros 
+1- Armas da persuasão - como influenciar e não se deixar influenciar
+2 - Comunicação não-violenta - Tecnicas para aprimorar relacionamentos pessoais e profissionais
+3 - Como falar em publico e encantar pessoas
+4 - Inteligencia do carisma - Aprenda a ciencia de conquistar e influenciar pessoas
+5 - Comunicação Assertiva - O que voce preciisa saber para melhorar suas relaçoes pessoais e profissionais
+6 - Como convencer alguem em 90 segundos - Crie uma primeira impressão vendedora
+7 - TED falar, convencer, emocionar - como se apresentar em grandes plateias
+
+para que ele alcance patamares maiores
+
+{REGRAS}
+> Cada tópico deve possui no mínimo 800 caracteres, incluindo espaços
+> O Autor é CEO de uma distribuidora de cigarros aplicando sua experiencia nesse ebook
+> Não utilize sempre o termo "Como CEO de uma distribuidora de cigarros"
+> O publico alvo são vendedores externos
+> extraia de maneira minuciosa
+> Faça uma analise em cada livro
+> Utilize somente as ideias dos livros 
+> traga vivencia para a área de vendas do comercio geral
+> De exemplos para o vendedor externo de cigarros  |
+
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A man in suit stands on the ground, pointing to an upward arrow next to him and standing behind it is green bar graph with black background. The illustration style should be simple yet detailed, using vector graphics for clarity of form and line work. This design will emphasize visual impact through clean lines and bright colors. A strong sense of composition, with elements such as arrows or graphs adding depth and dimension to create an overall positive atmosphere., focus stacked --ar 38:59 --style raw  |
 
 ## ✨ Features
 
@@ -73,14 +115,14 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspHemerson Abreu<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/azimutalx">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+hemersonabreu">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/hemersonabreu/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -89,4 +131,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Hemerson Abreu](https://github.com/azimutalx)
