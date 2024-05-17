@@ -42,7 +42,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Enredo  | Gostaria de um resumo detalhado sobre os seguintes livros: |
 |  título  | Com base nesses 7 livros quero escrever meu ebook, voltado para o nicho de vendas, e com subnicho a formação de excelentes vendedores. Quero um título impactante utilizando das técnicas fornecidas pelos livros e curto.  |  
-| conteúdo | Se aprofunde mais nos temas, crie um subtítulo que seja uma citação breve do livro, traga exemplos reais do cotidiano da área de vendas. Inclua também as seguintes regras:
+| conteúdo | Se aprofunde mais nos temas, crie um subtítulo que seja uma citação breve do livro, traga exemplos reais do cotidiano da área de vendas. Inclua também as seguintes regras: |
 
 \{REGRAS\} 
 \> Cada tópico deve possuir no mínimo 800 caracteres, incluindo espaços
@@ -56,7 +56,7 @@ ChatGPT：
 \> De exemplos para o vendedor externo de cigarros  
 
 | conclusão | 
-Traga uma conclusão sobre todo o conteúdo abordado e sobre o conteúdo dos livros estudados, diga que agora o vendedor subiu de nível e que indicamos os livros. Inclua também as regras mencionadas anteriormente:
+Traga uma conclusão sobre todo o conteúdo abordado e sobre o conteúdo dos livros estudados, diga que agora o vendedor subiu de nível e que indicamos os livros. Inclua também as regras mencionadas anteriormente: |
 
 \{REGRAS\} 
 \> Cada tópico deve possuir no mínimo 800 caracteres, incluindo espaços 
