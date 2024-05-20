@@ -45,20 +45,6 @@ ChatGPT：
 | conteúdo | Se aprofunde mais nos temas, crie um subtítulo que seja uma citação breve do livro, traga exemplos reais do cotidiano da área de vendas. Inclua também as seguintes regras:<br/>\{REGRAS GERAIS\}<br/>\> Cada tópico deve possuir no mínimo 800 caracteres, incluindo espaços<br/>\> O Autor é CEO de uma distribuidora de cigarros aplicando sua experiência nesse ebook<br/>\> Não utilize sempre o termo "Como CEO de uma distribuidora de cigarros"<br/>\> O público-alvo são vendedores externos<br/>\> Extraia de maneira minuciosa<br/>\> Faça uma análise em cada livro<br/>\> Utilize somente as ideias dos livros<br/>\> Traga vivência para a área de vendas do comércio geral<br/>\> De exemplos para o vendedor externo de cigarros |
 | conclusão | Traga uma conclusão sobre todo o conteúdo abordado e sobre o conteúdo dos livros estudados, diga que agora o vendedor subiu de nível e que indicamos os livros. Inclua também as regras mencionadas anteriormente:<br/>\{REGRAS GERAIS\}<br/>\> Cada tópico deve possuir no mínimo 800 caracteres, incluindo espaços<br/>\> O Autor é CEO de uma distribuidora de cigarros aplicando sua experiência nesse ebook<br/>\> Não utilize sempre o termo "Como CEO de uma distribuidora de cigarros"<br/>\> O público-alvo são vendedores externos<br/>\> Extraia de maneira minuciosa<br/>\> Faça uma análise em cada livro<br/>\> Utilize somente as ideias dos livros<br/>\> Traga vivência para a área de vendas do comércio geral<br/>\> De exemplos para o vendedor externo de cigarros |
 
-
-\{REGRAS GERAIS\}   
-\> Cada tópico deve possuir no mínimo 800 caracteres, incluindo espaços  
-\> O Autor é CEO de uma distribuidora de cigarros aplicando sua experiência nesse ebook   
-\> Não utilize sempre o termo "Como CEO de uma distribuidora de cigarros"   
-\> O público-alvo são vendedores externos  
-\> Extraia de maneira minuciosa  
-\> Faça uma análise em cada livro  
-\> Utilize somente as ideias dos livros  
-\> Traga vivência para a área de vendas do comércio geral  
-\> De exemplos para o vendedor externo de cigarros    
-
-
-
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
