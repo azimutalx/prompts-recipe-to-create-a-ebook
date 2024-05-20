@@ -13,7 +13,7 @@
 <p align="center">
 <img 
     src="./assets/cover1.png"
-    width="400"  
+    width="1280"  
 />
 </p>
 
